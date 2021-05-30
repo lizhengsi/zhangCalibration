@@ -8,6 +8,7 @@ cmake-build-debug/
 
 /lib/*
 /bin/*
+!.gitkeep
 
 # Prerequisites
 *.d
